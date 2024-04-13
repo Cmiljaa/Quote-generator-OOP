@@ -42,13 +42,13 @@ button:hover {
 .quote-section{
     max-width: 600px;
     text-align: center;
-    margin: 5px auto;
+    margin: 22px auto;
 }
 
 .quote-section p{
     margin-top: -12px;
     font-family: Georgia, serif;
-    font-size: 25px;
+    font-size: 28px;
     letter-spacing: 2px;
     word-spacing: 2px;
 }

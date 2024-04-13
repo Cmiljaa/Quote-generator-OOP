@@ -4,10 +4,6 @@ const quotes = [
         Author: "Steve Jobs"
     },
     {
-        Quote: "Day one or one day",
-        Author: "Dragan Ilic"
-    },
-    {
         Quote: "Success is not final, failure is not fatal: It is the courage to continue that counts.",
         Author: "Winston Churchill"
     },
