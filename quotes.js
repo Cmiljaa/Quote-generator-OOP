@@ -1,4 +1,4 @@
-const quotes = [
+const Quotes = [
     {
         Quote: "The only way to do great work is to love what you do.",
         Author: "Steve Jobs"
@@ -280,3 +280,5 @@ const quotes = [
         Author: "Oscar Wilde"
     }
 ];
+
+generator1 = new QuoteGenerator(Quotes);
